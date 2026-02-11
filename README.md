@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Abdullah Altun</h1>
-<h3 align="center">🚀 A technology enthusiast shaping the future with artificial intelligence</h3>
+<h3 align="center">🚀 A technology enthusiast building real-world solutions with web technologies & AI</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>fruitProjectDetection2</strong><br>
-  🌱 I’m currently learning <strong>AI, Python</strong><br>
+  🔭 I'm currently working on <strong>WhatsApp Business API Panel</strong><br>
+  🌱 I'm currently learning <strong>Laravel, PHP, Full-Stack Web Development</strong><br>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 👨‍💻 I'm passionate about AI, machine learning, and embedded systems  
-- 🎓 I'm actively improving myself in deep learning & computer vision  
+
+- 👨‍💻 I'm passionate about web development, API integrations, and building scalable applications
+- 🎓 I'm actively improving myself in Laravel ecosystem & backend development
+- 🚀 Currently developing a WhatsApp Business API management panel
 - 📫 Reach me at: `alttun0@gmail.com`
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/abdullah-altun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30"/>
@@ -30,13 +33,14 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
